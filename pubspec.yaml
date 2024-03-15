@@ -35,6 +35,27 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  # Bloc statement
+  flutter_bloc: ^8.1.4
+  bloc: ^8.1.3
+  # Code generator used with cubit & retrofit to auto generate the model
+  freezed: ^2.4.7
+  freezed_annotation: ^2.4.1
+  # For dependency Injection
+  get_it: ^7.6.7
+  # Auto generate code for converting to and from Json
+  json_serializable: ^6.7.1
+  json_annotation: ^4.8.1
+  # Networking
+  dio: ^5.4.1
+  retrofit: ^4.1.0
+  retrofit_generator: ^8.1.0
+  pretty_dio_logger: ^1.3.1
+  # Localization
+  easy_localization: ^3.0.5
+  intl: ^0.18.0
+  # Native splash screen
+  flutter_native_splash: ^2.3.13
 
 dev_dependencies:
   flutter_test:
